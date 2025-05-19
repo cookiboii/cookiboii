@@ -22,4 +22,13 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-FF4088?style=for-the-badge&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cookiboii&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/cookiboii?pet-id=712112889473841571"
+    width="600"
+    height="120"
+  />
+</a>
+  
