@@ -3,7 +3,7 @@
 ### 👋 안녕하세요, 백엔드 개발자를 꿈꾸는 cookiboii입니다!
 
 - 🔭 Java & Spring 기반 프로젝트 진행 중
-- 💻 Kotlin, Spring Boot, JPA, MySQL
+- 💻 Java, Spring Boot, JPA, MySQL
 - 🐾 목표: 클린 코드 & 실무 감각 잡기
 
 ### 📊 GitHub Stats
