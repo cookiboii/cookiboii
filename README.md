@@ -4,7 +4,7 @@
 
 - 🔭 Java & Spring 기반 프로젝트 진행 중
 - 💻 Java, Spring Boot, JPA, MySQL
-- 🐾 목표: 클린 코드 & 실무 감각 잡기
+
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cookiboii&show_icons=true&theme=tokyonight)
