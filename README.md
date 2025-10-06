@@ -23,11 +23,5 @@
 ![JPA](https://img.shields.io/badge/JPA-FF4088?style=for-the-badge&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cookiboii&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/cookiboii"
-  width="600"
-  height="300"
-/>
-</a>
+
   
