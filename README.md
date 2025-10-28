@@ -6,7 +6,7 @@
 - 💻 Java, Spring Boot, JPA, MySQL
 
 ### 🚀 Projects
-- **Banpick Master**: [https://banpick-master-ab3e7.web.app/](https://banpick-master-ab3e7.web.app/)
+- **Banpick Master**: [https://pickmaster-v1.vercel.app/](https://pickmaster-v1.vercel.app/)
 
 ### 💻 Tech Stack
 
