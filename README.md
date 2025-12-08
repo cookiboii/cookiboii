@@ -30,6 +30,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-
-### 🔥 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cookiboii&layout=compact&theme=tokyonight)
