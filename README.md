@@ -5,9 +5,6 @@
 - 🔭 Java & Spring 기반 프로젝트 진행 중
 - 💻 Java, Spring Boot, JPA, MySQL
 
-### 🚀 Projects
-- **Banpick Master**: [https://pick-master.vercel.app/](https://pick-master.vercel.app/)
-
 ### 💻 Tech Stack
 
 #### 🔧 Backend
