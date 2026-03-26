@@ -2,8 +2,6 @@
 
 ### 👋 안녕하세요, 백엔드 개발자를 꿈꾸는 cookiboii입니다!
 
-- 🔭 Java & Spring 기반 프로젝트 진행 중
-- 💻 Java, Spring Boot, JPA, MySQL
 
 ### 💻 Tech Stack
 
