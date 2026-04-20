@@ -4,10 +4,6 @@
 
 ### Backend Developer
 
-[![GitHub followers](https://img.shields.io/github/followers/cookiboii?style=social)](https://github.com/cookiboii)
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=cookiboii&label=Visitors&countColor=%23263759)
-
 </div>
 
 <br/>
