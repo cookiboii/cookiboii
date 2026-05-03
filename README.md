@@ -35,11 +35,6 @@
 
 <br/>
 
-## GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cookiboii&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookiboii&layout=compact&theme=radical&hide_border=true)
 
 </div>
